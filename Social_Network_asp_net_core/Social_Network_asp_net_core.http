@@ -1,0 +1,6 @@
+@Social_Network_asp_net_core_HostAddress = http://localhost:5274
+
+GET {{Social_Network_asp_net_core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
